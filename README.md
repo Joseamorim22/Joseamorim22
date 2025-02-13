@@ -31,7 +31,7 @@
 
 ## 🐍 Atividade no GitHub  
 
-![Snake animation](https://github.com/Joseamorim22/Joseamorim22/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Joseamorim22/Joseamorim22/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
@@ -39,3 +39,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-amorim-538676297/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseamorim322@gmail.com)  
+
+
