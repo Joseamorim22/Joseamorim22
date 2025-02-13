@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou José Amorim!
 
-💻 Desenvolvedor Full Stack | 🚀 Apaixonado por tecnologia e inovação  
+💻 Junior Developer | 🚀 Apaixonado por tecnologia e inovação  
 
 🔹 Especialista em desenvolvimento web e mobile  
-🔹 Trabalhando com **Ionic, Laravel, PHP, HTML, CSS, JavaScript, Blade e Docker**  
 🔹 Buscando sempre evoluir e compartilhar conhecimento  
 
 ## 🚀 Tecnologias e Ferramentas  
@@ -23,5 +22,5 @@
 
 ## 📫 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jos%C3%A9-amorim-538676297/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseamorim322@gail.com)
