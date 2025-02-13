@@ -5,6 +5,8 @@
 🔹 Especialista em desenvolvimento web e mobile  
 🔹 Buscando sempre evoluir e compartilhar conhecimento  
 
+---
+
 ## 🚀 Tecnologias e Ferramentas  
 
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -16,11 +18,24 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
 ## 📈 Estatísticas do GitHub  
 
-![Estatísticas do GitHub de José Amorim](https://github-readme-stats.vercel.app/api?username=Joseamorim22&show_icons=true&theme=radical)  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseamorim22&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseamorim22&theme=radical"/>
+</div>
+
+---
+
+## 🐍 Atividade no GitHub  
+
+![Snake animation](https://github.com/Joseamorim22/Joseamorim22/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 📫 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jos%C3%A9-amorim-538676297/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseamorim322@gail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-amorim-538676297/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseamorim322@gmail.com)  
