@@ -31,7 +31,7 @@
 
 ## 🐍 Atividade no GitHub  
 
-![Snake animation](https://github.com/Joseamorim22/Joseamorim22/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
